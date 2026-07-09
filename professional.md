@@ -1,8 +1,8 @@
 # Professional  
 A collection of documentation created for professional environments. All documents are in PDF format, but were created using a combination of Microsoft Word, Canva, and Google Docs.  
 
-* [User Manual](./assets/docs/usermanual.pdf) - Re-designed and updated from an existing document.  
-* [Printing QR Codes With Avery](./assets/docs/printingqrcodes.pdf) - A from scratch tutorial.
-* [Brand Guidelines](https://drive.google.com/file/d/1BmQSrsUfj55fWyA414K-zyKBU5t9v7a5/view?usp=sharing) - Created in collaboration with a co-worker.
-* [FAQ](./assets/docs/faq.pdf) - Created in collaboration with a co-worker.
-* [Smart Locker Guide](./assets/docs/smartlocker.pdf) - A combination software/hardware guide.
+* [QTrak User Guide](./assets/docs/usermanual.pdf) - Complete redesign and modernization of an existing product user manual, including standardized formatting, improved organization, and accessibility focused updates.
+* [Zebra Printer & Z-Routing Setup Guide](./assets/docs/printingqrcodes.pdf) - 
+* [QTrak API Contact Import Guide]() - 
+* [QTrak SAML SSO Configuration Guide](./assets/docs/faq.pdf) - 
+* [QTrak Asset Pods and Vending Guide](./assets/docs/smartlocker.pdf) - 
