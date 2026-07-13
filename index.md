@@ -1,16 +1,29 @@
 # About Me
 
-My name is Kat Haas and this GitHub/Page is intended to host a portfolio of my technical writing work.  
+I'm a Technical Writer specializing in enterprise software documentation, implementation guides, knowledge management, and user-focused documentation.
 
-I have a Bachelor's in History from West Chester University of Pennsylvania, which helped to facillitate strong writing and research skills.  
+My work centers on translating complex technical concepts into documentation that helps people accomplish tasks quickly and confidently. Whether I'm creating a user manual, documenting a new software feature, or writing an administrator configuration guide, my goal is the same: produce documentation that is accurate, organized, accessible, and easy to maintain.
 
-This portfolio is intended to display the range of technical communication documentation I have created, both personally and professionally.  
+I currently work with the QTrak suite of enterprise software, where I create and modernize documentation for customers and internal teams. My responsibilities include developing user guides, implementation documentation, feature documentation, troubleshooting guides, and knowledge base content while collaborating with developers, QA, operations, and product stakeholders.
 
-My body of work includes:  
-* User guides   
-* Company brand style guides  
-* FAQs and Knowledge Bases
-* Software installation guides
-* Software feature tutorials
+In addition to technical writing, I have experience with:
+
+Documentation architecture and organization
+Information design
+Accessibility (WCAG and Section 508)
+Software testing and quality assurance
+Software implementation and product rollout
+Knowledge base development
+
+My portfolio demonstrates a variety of documentation types, including:
+
+* User manuals  
+* Administrator guides  
+* Configuration documentation  
+* Software tutorials  
+* Feature documentation  
+* Knowledge base articles  
+* Standard operating procedures  
+* Brand and style guides  
 
 Thank you for taking the time to view my portfolio. You may contact me via [LinkedIn](https://www.linkedin.com/in/katherine-haas/) or at [kathaas@msn.com](mailto:kathaas@msn.com).
